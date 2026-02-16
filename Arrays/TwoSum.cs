@@ -27,7 +27,7 @@ Output: [0,1]
 
 
 **/
-public class Solution {
+public class TwoSumSolution {
     
   public int[] TwoSum(int[] nums, int target) {
     
